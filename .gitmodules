@@ -1,0 +1,3 @@
+[submodule "mthree"]
+	path = mthree
+	url = https://github.com/Dpbm/mthree

@@ -1,0 +1,18 @@
+name: qem
+channels: 
+        - conda-forge
+dependencies:
+        - pip
+        - python=3.10
+        - pip:
+          - jupyterlab
+          - matplotlib
+          - numpy
+          - qiskit==1.2.0
+          - pylatexenc
+          - qiskit-aer
+          - pandas
+          - python-dotenv
+          - qiskit-ibm-provider
+          - qiskit-ibm-runtime
+          - mthree
