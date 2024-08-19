@@ -13,17 +13,17 @@
 version: 1
 metadata:
   content_hash:
-    linux-64: d6b28d544493d1d1eb8b5e052f9f316136f29320c32928554b47d60252421315
-    osx-arm64: 8c5cd94231c78eb122f31ddcb3db8c8888021c34d91c2d14a29391564a059b45
-    osx-64: 99350f1c8c2ca0d7137b78bf64e0f1bf4fbe52c96ed58c83d0c4a2b244e3d920
-    win-64: 95127f907e939fd8a87ee702da93573f6c951b6b2d28ffd804041e7bf5e5348d
+    linux-64: 841d9c632916c885101ca92f542adf48c2f92ce8ed70005bb2fda2d777d9d3eb
+    osx-arm64: 0fb5967b864a64cbbbe1bd16c8efb172fb45e03f6b0debe0e81c4ded974044fa
+    osx-64: 9b5a3cdc98f315c73a5ecae747cffd3a35bfa472f309da24f42864fa9177f57d
+    win-64: 553318e5240c782c8dde6e2ae4b100b5131a32c57e554acb30bf65961e6c68ec
   channels:
   - url: conda-forge
     used_env_vars: []
   platforms:
   - linux-64
-  - osx-arm64
   - osx-64
+  - osx-arm64
   - win-64
   sources:
   - environment.yml
@@ -4169,43 +4169,43 @@ package:
   category: main
   optional: false
 - name: numpy
-  version: 2.0.1
+  version: 1.26.4
   manager: pip
   platform: linux-64
   dependencies: {}
-  url: https://files.pythonhosted.org/packages/ac/9c/703d6775b99ae37c3d4fc32984953572fb20e23e61c0f4154f05e5758a30/numpy-2.0.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+  url: https://files.pythonhosted.org/packages/4b/d7/ecf66c1cd12dc28b4040b15ab4d17b773b87fa9d29ca16125de01adb36cd/numpy-1.26.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
   hash:
-    sha256: 4127d4303b9ac9f94ca0441138acead39928938660ca58329fe156f84b9f3015
+    sha256: ffa75af20b44f8dba823498024771d5ac50620e6915abac414251bd971b4529f
   category: main
   optional: false
 - name: numpy
-  version: 2.0.1
+  version: 1.26.4
   manager: pip
   platform: osx-64
   dependencies: {}
-  url: https://files.pythonhosted.org/packages/86/c0/025580db782c9be4c7de992e2cc4b2930c12ef8e0f26389c88089e2f8028/numpy-2.0.1-cp310-cp310-macosx_10_9_x86_64.whl
+  url: https://files.pythonhosted.org/packages/a7/94/ace0fdea5241a27d13543ee117cbc65868e82213fb31a8eb7fe9ff23f313/numpy-1.26.4-cp310-cp310-macosx_10_9_x86_64.whl
   hash:
-    sha256: 0fbb536eac80e27a2793ffd787895242b7f18ef792563d742c2d673bfcb75134
+    sha256: 9ff0f4f29c51e2803569d7a51c2304de5554655a60c5d776e35b4a41413830d0
   category: main
   optional: false
 - name: numpy
-  version: 2.0.1
+  version: 1.26.4
   manager: pip
   platform: osx-arm64
   dependencies: {}
-  url: https://files.pythonhosted.org/packages/d6/47/58ad880b4a6ae4ec01e212d68d298cc5425814496e8fce7b35575880984c/numpy-2.0.1-cp310-cp310-macosx_11_0_arm64.whl
+  url: https://files.pythonhosted.org/packages/20/f7/b24208eba89f9d1b58c1668bc6c8c4fd472b20c45573cb767f59d49fb0f6/numpy-1.26.4-cp310-cp310-macosx_11_0_arm64.whl
   hash:
-    sha256: 69ff563d43c69b1baba77af455dd0a839df8d25e8590e79c90fcbe1499ebde42
+    sha256: 2e4ee3380d6de9c9ec04745830fd9e2eccb3e6cf790d39d7b98ffd19b0dd754a
   category: main
   optional: false
 - name: numpy
-  version: 2.0.1
+  version: 1.26.4
   manager: pip
   platform: win-64
   dependencies: {}
-  url: https://files.pythonhosted.org/packages/16/9f/1fcb7fdb6ec988052b42c7f4ed6d92d89c541d640f8f39f01bf141d17426/numpy-2.0.1-cp310-cp310-win_amd64.whl
+  url: https://files.pythonhosted.org/packages/19/77/538f202862b9183f54108557bfda67e17603fc560c384559e769321c9d92/numpy-1.26.4-cp310-cp310-win_amd64.whl
   hash:
-    sha256: 81b0893a39bc5b865b8bf89e9ad7807e16717f19868e9d234bdaf9b1f1393868
+    sha256: b97fe8060236edf3662adfc2c633f56a08ae30560c56310562cb4f95500022d5
   category: main
   optional: false
 - name: orjson
