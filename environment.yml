@@ -16,3 +16,4 @@ dependencies:
           - qiskit-ibm-provider
           - qiskit-ibm-runtime
           - mthree
+          - qiskit-addon-cutting
