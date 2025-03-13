@@ -1,0 +1,2 @@
+- You must be aware of which hardware you're using. Since different backends can lead to different implementations and consequently higher depths.
+- multiprogramming: run multiple circuits in the same run to utilize as much as we can the chip
