@@ -17,3 +17,4 @@ dependencies:
           - qiskit-ibm-runtime
           - mthree
           - qiskit-addon-cutting
+          - seaborn
