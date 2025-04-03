@@ -597,21 +597,21 @@ package:
     ld_impl_linux-64: '>=2.36.1'
     libffi: '>=3.4,<4.0a0'
     libgcc: '>=13'
-    liblzma: '>=5.6.3,<6.0a0'
+    liblzma: '>=5.6.4,<6.0a0'
     libnsl: '>=2.0.1,<2.1.0a0'
-    libsqlite: '>=3.47.0,<4.0a0'
+    libsqlite: '>=3.49.1,<4.0a0'
     libuuid: '>=2.38.1,<3.0a0'
     libxcrypt: '>=4.4.36'
     libzlib: '>=1.3.1,<2.0a0'
     ncurses: '>=6.5,<7.0a0'
-    openssl: '>=3.4.0,<4.0a0'
+    openssl: '>=3.4.1,<4.0a0'
     readline: '>=8.2,<9.0a0'
     tk: '>=8.6.13,<8.7.0a0'
     tzdata: ''
-  url: https://conda.anaconda.org/conda-forge/linux-64/python-3.10.16-he725a3c_1_cpython.conda
+  url: https://conda.anaconda.org/conda-forge/linux-64/python-3.10.16-habfa6aa_2_cpython.conda
   hash:
-    md5: b887811a901b3aa622a92caf03bc8917
-    sha256: 3f90a2d5062a73cd2dd8a0027718aee1db93f7975b9cfe529e2c9aeec2db262e
+    md5: 35e864ff2ec654d09fdc189706dfd139
+    sha256: 0ab21c4738003a9f8d1d13089bf7d01e6633fcfb4f3265354899e3d39b935f3c
   category: main
   optional: false
 - name: python
@@ -622,18 +622,18 @@ package:
     __osx: '>=10.13'
     bzip2: '>=1.0.8,<2.0a0'
     libffi: '>=3.4,<4.0a0'
-    liblzma: '>=5.6.3,<6.0a0'
-    libsqlite: '>=3.47.0,<4.0a0'
+    liblzma: '>=5.6.4,<6.0a0'
+    libsqlite: '>=3.49.1,<4.0a0'
     libzlib: '>=1.3.1,<2.0a0'
     ncurses: '>=6.5,<7.0a0'
-    openssl: '>=3.4.0,<4.0a0'
+    openssl: '>=3.4.1,<4.0a0'
     readline: '>=8.2,<9.0a0'
     tk: '>=8.6.13,<8.7.0a0'
     tzdata: ''
-  url: https://conda.anaconda.org/conda-forge/osx-64/python-3.10.16-h5acdff8_1_cpython.conda
+  url: https://conda.anaconda.org/conda-forge/osx-64/python-3.10.16-h65d3e95_2_cpython.conda
   hash:
-    md5: 116dda7daaadcc877b936edcdf655208
-    sha256: 45b0a0a021cbaddfd25a1e43026564bbec33883e4bc9c30fd341be40c12ad88c
+    md5: b50d873e8458d6a39934cfca070c5714
+    sha256: 08a6c1f6130779ed2f335704d3fb9d19705e58572380c6c75e982110e971e4bb
   category: main
   optional: false
 - name: python
@@ -644,18 +644,18 @@ package:
     __osx: '>=11.0'
     bzip2: '>=1.0.8,<2.0a0'
     libffi: '>=3.4,<4.0a0'
-    liblzma: '>=5.6.3,<6.0a0'
-    libsqlite: '>=3.47.0,<4.0a0'
+    liblzma: '>=5.6.4,<6.0a0'
+    libsqlite: '>=3.49.1,<4.0a0'
     libzlib: '>=1.3.1,<2.0a0'
     ncurses: '>=6.5,<7.0a0'
-    openssl: '>=3.4.0,<4.0a0'
+    openssl: '>=3.4.1,<4.0a0'
     readline: '>=8.2,<9.0a0'
     tk: '>=8.6.13,<8.7.0a0'
     tzdata: ''
-  url: https://conda.anaconda.org/conda-forge/osx-arm64/python-3.10.16-h870587a_1_cpython.conda
+  url: https://conda.anaconda.org/conda-forge/osx-arm64/python-3.10.16-h2ecfa3e_2_cpython.conda
   hash:
-    md5: 11ce777f54d8a4b821d7f5f159eda36c
-    sha256: cd617b15712c4f9316b22c75459311ed106ccb0659c0bf36e281a9162b4e2d95
+    md5: c7aea572fa192bf2190fb09e91691d9d
+    sha256: 774a96606909d420a22e3f5187c032549011a32a9c827b3b6c6265e4b6ba8b7b
   category: main
   optional: false
 - name: python
@@ -665,19 +665,19 @@ package:
   dependencies:
     bzip2: '>=1.0.8,<2.0a0'
     libffi: '>=3.4,<4.0a0'
-    liblzma: '>=5.6.3,<6.0a0'
-    libsqlite: '>=3.47.0,<4.0a0'
+    liblzma: '>=5.6.4,<6.0a0'
+    libsqlite: '>=3.49.1,<4.0a0'
     libzlib: '>=1.3.1,<2.0a0'
-    openssl: '>=3.4.0,<4.0a0'
+    openssl: '>=3.4.1,<4.0a0'
     tk: '>=8.6.13,<8.7.0a0'
     tzdata: ''
     ucrt: '>=10.0.20348.0'
     vc: '>=14.2,<15'
     vc14_runtime: '>=14.29.30139'
-  url: https://conda.anaconda.org/conda-forge/win-64/python-3.10.16-h37870fc_1_cpython.conda
+  url: https://conda.anaconda.org/conda-forge/win-64/python-3.10.16-hfdde91d_2_cpython.conda
   hash:
-    md5: 5c292a7bd9c32a256ba7939b3e6dee03
-    sha256: 3392db6a7a90864d3fd1ce281859a49e27ee68121b63eece2ae6f1dbb2a8aaf1
+    md5: d4d056da0f59dc89bf5155901f096428
+    sha256: e6740bae3e9847a5a34c845f5bbd9b567f2a4eb4f561b620587d1756133a6091
   category: main
   optional: false
 - name: readline
