@@ -1,0 +1,11 @@
+{
+    "5qubits_cuts_for_distance": 0.4345703125,
+    "5qubits_cuts_for_cnot_error": 0.1650390625,
+    "5qubits_cuts_for_both": 0.22998046874999983,
+    "15qubits_cuts_for_distance": 1.9375,
+    "15qubits_cuts_for_cnot_error": 2.294921875,
+    "15qubits_cuts_for_both": 2.6518554687499996,
+    "20qubits_cuts_for_distance": 1.751953125,
+    "20qubits_cuts_for_cnot_error": 1.6943359375,
+    "20qubits_cuts_for_both": 3.268066406249999
+}
